@@ -1,11 +1,4 @@
 # data_2024_Panda
 Data Analyst Portfolio
-RSVP Movies is an Indian film production company which has produced many super-hit movies. They have usually released movies for the Indian audience but for their next project, they are planning to release a movie for the global audience in 2022.
-
- 
-
-The production company wants to plan their every move analytically based on data and have approached you for help with this new project. You have been provided with the data of the movies that have been released in the past three years. You have to analyse the data set and draw meaningful insights that can help them start their new project. 
-
- 
-
-As a data analyst and an SQL expert. I have used SQL to analyse the given data and give recommendations to RSVP Movies based on the insights. The entire analytics process has been divided into four segments, where each segment leads to significant insights from different combinations of the data given in the table.
+project 1: this project showcases my ability to write queries in Sql. i have used this tool to answer the queries for an IMDB movie rating.
+project 2: This project showcases my ability to work with SQL and PowerBI. Wherein i have tried to answer queries through SQL and PowerBI dashboard is self explanatory giving fantastic insights into the dataset.
